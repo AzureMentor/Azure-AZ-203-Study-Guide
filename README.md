@@ -1,4 +1,4 @@
-# AZ-203: Developing Solutions for Microsoft Azure Study Guide
+# AZ-203: Developing Solutions for Azure Study Guide
 ## Skills measured
 * [Develop Azure Infrastructure as a Service compute solution (10-15%)](1-Develop%20Azure%20Infrastructure%20as%20a%20Service%20compute%20solution%20(10-15%25).md)
 * [Develop Azure Platform as a Service compute solution (20-25%)](2-Develop%20Azure%20Platform%20as%20a%20Service%20compute%20solution%20(20-25%25).md)
