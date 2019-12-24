@@ -12,7 +12,7 @@
 ## Implement access control
 - Implement CBAC (Claims-Based Access Control) authorization
 - Implement RBAC (Role-Based Access Control) authorization
-- Create Shared Access Signatures
+- Create SAS (Shared Access Signatures)
 
 ## Implement secure data solutions
 - Encrypt and decrypt data at rest and in transit
