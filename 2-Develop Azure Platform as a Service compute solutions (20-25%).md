@@ -21,3 +21,5 @@
 - Implement Azure Durable Functions
 - Create Azure Function apps by using Visual Studio
 - Implement Python Azure functions
+
+[Return to Table of Contents](README.md)

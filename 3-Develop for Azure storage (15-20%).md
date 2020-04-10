@@ -22,3 +22,5 @@
 - Implement blob leasing
 - Implement data archiving and retention
 - Implement Geo Zone Redundant storage
+
+[Return to Table of Contents](README.md)

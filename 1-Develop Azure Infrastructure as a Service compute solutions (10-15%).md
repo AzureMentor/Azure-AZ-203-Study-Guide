@@ -17,3 +17,5 @@
 - Create container images for solutions
 - Publish an image to the Azure Container Registry
 - Run containers by using Azure Container Instance or AKS
+
+[Return to Table of Contents](README.md)
