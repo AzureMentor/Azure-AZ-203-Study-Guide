@@ -1,4 +1,4 @@
-# AZ-400: Develop Azure Infrastructure as a Service compute solutions (10-15%)
+# AZ-203: Develop Azure Infrastructure as a Service compute solutions (10-15%)
 ## Implement solutions that use virtual machines (VM)
 - Provision VMs
 - Create ARM templates

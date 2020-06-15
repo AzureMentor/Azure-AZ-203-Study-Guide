@@ -1,4 +1,4 @@
-# Connect to and consume Azure services and third-party services (20-25%)
+# AZ-203: Connect to and consume Azure services and third-party services (20-25%)
 ## Develop an App Service Logic App
 - Create a Logic App
 - Create a custom connector for Logic Apps

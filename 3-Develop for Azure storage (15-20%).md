@@ -1,4 +1,4 @@
-# Develop for Azure storage (15-20%)
+# AZ-203: Develop for Azure storage (15-20%)
 ## Develop solutions that use storage tables
 - Design and implement policies for tables
 - Query table storage by using code
